@@ -68,7 +68,7 @@ This project aims to answer questions such as:
 ## 📁 Files
 
 - `consumer_behavior_analysis.ipynb` – Jupyter notebook with all code and outputs  
-- `consumer_behavior_analysis.html` – Exported version (viewable without running code)  
+- `shopping_behavior_updated.csv` – Dataset  
 
 ---
 
